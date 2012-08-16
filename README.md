@@ -1,4 +1,4 @@
-Basic script for viewing fonts on a system with fontconfig.  
+Basic script for making a contact sheet of fonts on system with fontconfig.  
 
 This script should NEVER be run in a production environment, it uses the PHP shell_exec function and is definitely not secure by any stretch of the imagination.
 
